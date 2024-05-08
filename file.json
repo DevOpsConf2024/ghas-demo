@@ -1,3 +1,4 @@
 {
-  "Conn": "<PLACEHOLDER>"
+  "Conn1": "DefaultEndpointsProtocol=https;AccountName=devopsconf2024;AccountKey=X8N94lsgeW1jvs6rLtK3CJNK3G5JA5xjnlfbFvMLz/EL2A2U+1HMvSOGGVQOzZmedn76sdh3rzwy+AStGx3iug==;EndpointSuffix=core.windows.net",
+  "Conn2": "<PLACEHOLDER>"
 }
